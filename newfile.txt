@@ -1,3 +1,4 @@
 This is a new file, remodified after a hard reset.
 This is my first change to a branch.
 Conflict1 xyz
+Second change not a conflict
